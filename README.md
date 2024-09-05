@@ -9,12 +9,6 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/beyzacoban)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/beyzacoban)
 
-![Beyza Coban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyzacoban&show_icons=true&count_private=true&theme=radical) ![Beyza Coban's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzacoban&theme=radical&layout=compact)
-
-
-### 📈 GitHub Activity Graph:
-
-[![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)](https://github.com/beyzacoban/beyzacoban)
 
 
 
